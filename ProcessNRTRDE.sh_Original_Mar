@@ -1,0 +1,2 @@
+#./ProcessNRTRDE pm_mtnu_upgrade/pm_mtnu_upgrade@lt29 33 1 /home/pmgmt/PM_WAVE/source/NRTRDE_IN/log/ IN_NRTRDE
+./ProcessNRTRDE  33 1 /data2/PM/log/NRTRDEIN/ NRTRDE_IN
